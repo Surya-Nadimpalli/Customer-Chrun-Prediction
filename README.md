@@ -1,0 +1,1 @@
+Developed a machine learning model to predict customer churn using a real-world telecom dataset. Applied feature engineering, SMOTE for class imbalance, and logistic regression, achieving an F1-score of 87%. Explained model insights to simulate stakeholder decision-making in a customer retention context.
